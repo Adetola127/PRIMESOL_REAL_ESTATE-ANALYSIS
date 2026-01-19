@@ -52,7 +52,7 @@ To provide real estate investors and stakeholders with a **data-driven view of p
 
 
 ## 📸 Dashboard Preview
-![PrimeSol Real Estate Dashboard](assets/dashboard_overview.png)
+Screenshot 2025-12-20 180127.png
 
 
 ## 🚀 Conclusion
