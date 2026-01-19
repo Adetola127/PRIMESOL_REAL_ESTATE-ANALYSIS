@@ -54,12 +54,6 @@ To provide real estate investors and stakeholders with a **data-driven view of p
 ## 📸 Dashboard Preview
 ![PrimeSol Real Estate Dashboard](assets/dashboard_overview.png)
 
----
-
-## 🎥 Dashboard Walkthrough
-Short dashboard demo video available here:  
-*(Insert LinkedIn or YouTube link)*
-
 
 ## 🚀 Conclusion
 This project demonstrates how real estate data can be transformed into actionable insights that support **pricing decisions, investment planning, and market evaluation** using Power BI.
